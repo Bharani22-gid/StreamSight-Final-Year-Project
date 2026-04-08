@@ -1396,7 +1396,7 @@ export default function Login() {
             </button>
 
             {/* ✅ Credential hints — helpful for demo */}
-            <div className="ss-role-hints">
+            {/* <div className="ss-role-hints">
               {[
                 { role:"ADMIN",    email:"admin@streamsight.ai",  color:"#1D9E75", bg:"rgba(29,158,117,0.08)" },
                 { role:"ANALYST",  email:"analyst@streamsight.ai",color:"#7F77DD", bg:"rgba(127,119,221,0.08)" },
@@ -1419,7 +1419,7 @@ export default function Login() {
                   <span style={{ marginLeft:"auto", fontSize:"0.6rem", color:"#8facc0", fontFamily:"DM Mono" }}>click to fill</span>
                 </div>
               ))}
-            </div>
+            </div> */}
 
           </div>
         </motion.div>

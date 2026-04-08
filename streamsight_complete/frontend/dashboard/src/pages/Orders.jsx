@@ -129,7 +129,7 @@ export default function AmazonOrders() {
             <Tab label="Cancelled" />
           </Tabs>
           
-          <Box sx={{ pb: 1 }}>
+          {/* <Box sx={{ pb: 1 }}>
             <TextField 
               placeholder="Search all orders" 
               size="small"
@@ -142,7 +142,7 @@ export default function AmazonOrders() {
                 endAdornment: <Button variant="contained" size="small" sx={{ bgcolor: '#334155', borderRadius: 1.5, textTransform: 'none', px: 3, ml: 1 }}>Search</Button>
               }}
             />
-          </Box>
+          </Box> */}
         </Stack>
       </Box>
 

@@ -2197,7 +2197,7 @@ export default function EcommerceSimulator() {
 
             {/* Title + subtitle */}
             <div>
-              <h1 style={{ fontSize: 26, fontWeight: 800, color: "#0F172A", margin: 0, letterSpacing: "-0.04em", display: "flex", alignItems: "center", gap: 10 }}>
+              <h1 style={{ fontSize: 26, fontWeight: 800, color: "#E11D48", margin: 0, letterSpacing: "-0.04em", display: "flex", alignItems: "center", gap: 10 }}>
                 <span style={{ fontSize: 24 }}>🛍</span> ShopStream
                 <span style={{ fontSize: 12, fontWeight: 600, color: "#64748b", background: "#f1f5f9", border: "1px solid #e2e8f0", padding: "3px 10px", borderRadius: 20 }}>
                   {PRODUCTS.length} Products
